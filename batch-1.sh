@@ -1,6 +1,5 @@
-#!/bin/bash
 
 cd /
-sudo mkdir Batch-trial
+mkdir Batch-trial
 cd Batch-trial
-sudo mkdir new-trail
+mkdir new-trail
